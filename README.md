@@ -16,3 +16,5 @@ The kit can be plugged in to a USB slot in your computer to upload the program.
 Open the archive from within PSoC creator and Build the data, then flash it in the microprocessor.
 
 For more information, see Hackster.io
+
+https://www.hackster.io/Pieter56/video-terminal-4891f0
